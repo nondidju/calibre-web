@@ -952,7 +952,7 @@ msgstr "Créer une étagère"
 
 #: cps/templates/layout.html:159
 msgid "About"
-msgstr "À popos"
+msgstr "À propos"
 
 #: cps/templates/login.html:7 cps/templates/login.html:8
 #: cps/templates/register.html:7 cps/templates/user_edit.html:8
